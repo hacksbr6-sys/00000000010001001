@@ -28,7 +28,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
             Este sistema de cálculo pertence exclusivamente a Guaianases RP, o uso deste site é somente para fins do servidor.
           </p>
           <p className="text-gray-400 text-sm">
-            © 2025 Mecânica Guaianases. Todos os direitos reservados para Alison A H e Kelvin Souza.
+            © 2025 Mecânica Guaianases. Todos os direitos reservados para Alison A H.
           </p>
         </div>
       </footer>
