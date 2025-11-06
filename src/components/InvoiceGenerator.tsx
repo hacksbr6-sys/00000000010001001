@@ -74,7 +74,6 @@ const InvoiceGenerator: React.FC<InvoiceProps> = ({ invoice, onClose }) => {
                 <p>Cidade: Guaianases</p>
                 <p>Servidor: GuaianaseRP</p>
                 <p>CNPJ: 00.000.000/0001-01</p>
-                <p>Telefone Guilherme: 045-488</p>
                 <p>Telefone Reynaldo: 050-794</p>
               </div>
             </div>
@@ -277,11 +276,10 @@ const InvoiceGenerator: React.FC<InvoiceProps> = ({ invoice, onClose }) => {
                 <p className="text-blue-800"><strong>Formas de Pagamento:</strong></p>
                 <p className="text-blue-700">• Dinheiro</p>
                 <p className="text-blue-700">• PIX: mecanica@guaianases.com</p>
-                <p className="text-blue-700">• Cartão (débito/crédito)</p>
               </div>
               <div>
                 <p className="text-blue-800"><strong>Garantia:</strong></p>
-                <p className="text-blue-700">• Serviços: 30 dias</p>
+                <p className="text-blue-700">• Serviços: 15 dias</p>
                 <p className="text-blue-700">• Peças: Conforme fabricante</p>
               </div>
             </div>
